@@ -1,1 +1,1 @@
-Within tensoramp, I am including a PDF generated to help the reader understand the present code. The current code available uses only a radiation dominated universe and attempts to solve the gravitational wave equation using a WKB analysis.   
+Repo to help us figure out how to get this code running faster!
